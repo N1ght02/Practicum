@@ -23,6 +23,7 @@ public class Main{
         System.out.println(samenTekst);
 
         System.out.println(getalA + getalB + getalC);
+        System.out.println(getalA + getalB + getalC);
 
     }
 }
